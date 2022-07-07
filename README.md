@@ -11,6 +11,7 @@ To run it, you will need a kernel made out of the `Python/3.10.5` environment mo
 
 ```
 module purge && module load JupyterLab
+pip install -U pyviz_comms  # ensure Panel interactivity in notebooks
 nesi-add-kernel python-3.10.5 Python/3.10.5-gimkl-2022a
 ```
 
