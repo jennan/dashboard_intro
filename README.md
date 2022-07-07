@@ -17,6 +17,5 @@ nesi-add-kernel python-3.10.5 Python/3.10.5-gimkl-2022a
 
 ## TODO
 
-- complete the demo notebook (add links and some descriptions of toolboxes)
-- add a self-contained example of panel + hvplot + xarray for geoscience
 - provide an alternative conda environment or requirements.txt file
+- add a self-contained example of panel + hvplot + xarray + datashader for geoscience, maybe use data from https://carpentries-lab.github.io/python-aos-lesson/
