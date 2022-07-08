@@ -16,6 +16,11 @@ nesi-add-kernel python-3.10.5 Python/3.10.5-gimkl-2022a
 ```
 
 
+## Getting started
+
+The presentation will follow the [Dashboard Tour](dashboard_tour.ipynb) notebook.
+
+
 ## TODO
 
 - provide an alternative conda environment or requirements.txt file
