@@ -5,15 +5,7 @@ This repository provides a quick tour of packages useful to build dashboards in 
 
 ## Installation
 
-The example notebook runs on Jupyter-on-NeSI.
-
-To run it, you will need a kernel made out of the `Python/3.10.5` environment module:
-
-```
-module purge && module load JupyterLab
-pip install -U pyviz_comms  # ensure Panel interactivity in notebooks
-nesi-add-kernel python-3.10.5 Python/3.10.5-gimkl-2022a
-```
+The example notebook runs on [Jupyter-on-NeSI](https://jupyter.nesi.org.nz), using the kernel `Python 3.10.5 (gimkl-2022a)`.
 
 
 ## Getting started
