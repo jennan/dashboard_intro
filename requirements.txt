@@ -1,0 +1,10 @@
+jupyterlab
+jupyter-server-proxy
+pandas
+seaborn
+plotly
+hvplot
+holoviews
+altair
+streamlit
+panel
